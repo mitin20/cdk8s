@@ -81,7 +81,7 @@ Initializing a project from the java-app template
 
 # example
 ```java
- package com.mycompany.app;
+package com.mycompany.app;
 
 import software.constructs.Construct;
 
