@@ -1,0 +1,5 @@
+deploy:
+  #- okteto build -t okteto.dev/hello-world:latest
+  - kubectl apply -f hello-python/dist/hello.k8s.yaml
+
+    
