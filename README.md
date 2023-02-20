@@ -78,7 +78,7 @@ $ cd hello
 $ cdk8s init java-app
 Initializing a project from the java-app template
 ...
-
+useful
     "build": "cdk8s import --language java", 
     "synth": "mvn install && mvn compile && cdk8s synth",
 
